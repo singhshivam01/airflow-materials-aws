@@ -29,3 +29,5 @@ managedNodeGroups:
         autoScaler: true
         cloudWatch: true
         externalDNS: true
+     
+    availabilityZones: ["us-east-1a"]
